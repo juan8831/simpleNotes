@@ -1,1 +1,1 @@
-Notes
+A simple Android notes application
